@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KEC ARCHIVE</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Developers</string>
+    <string name="title_activity_search">Search</string>
+
+    <string-array name="department">
+        <item>Select Department</item>
+        <item>Computer Science and Engineering</item>
+        <item>Information Technology</item>
+        <item>Civil Engineering</item>
+        <item>Mechanical Engineering</item>
+    </string-array>
+    <string name="title_activity_roll1">Civil Engineering</string>
+    <string name="title_activity_roll2">Civil Engineering</string>
+    <string name="title_activity_roll3">Civil Engineering</string>
+
+</resources>
